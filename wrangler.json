@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "cf-worker-slack-bot-proxy",
+  "name": "slack-bot-proxy",
   "main": "src/index.js",
   "compatibility_date": "2025-01-21",
   "observability": {
